@@ -1,0 +1,175 @@
+#Header{
+    right: 1000px;
+    color: rgb(172, 10, 10);
+    text-align: center;
+    
+}
+
+#Menuler{
+    display: block;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    outline: none;
+   
+    vertical-align: top;
+    text-align: center;
+}
+
+
+
+
+
+#Menu{
+    display: inline-block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    outline: 0;
+    border-bottom: 1px red solid;
+    vertical-align: top;
+    text-align: center;
+    
+   
+    
+}
+
+
+
+
+.MenuTikla a:link, .MenuTikla a:active, .MenuTikla a:visited{
+	font-family: arial, "helvatica neue", Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #080707;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-decoration: none;
+	}
+
+
+.MenuTikla a:hover{
+	font-family: arial, "helvatica neue", Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: orangered;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.MenuTikla{
+   display: inline-block;
+   list-style: none;
+   float: center;
+   margin: 0 auto;
+   padding: 0;
+   border: none;
+   outline: none;
+   text-align: center;
+}
+
+#Ana-Sayfa{
+    display: block;
+    float: center;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    margin: 30px;
+    color: slateblue;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+#Aciklama{
+    display: block;
+    float: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+#SiteAletler{
+    display: block;
+    vertical-align: top;
+    text-align: center;
+    color: orangered;
+}
+
+
+
+#Aletler{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    max-width: 100%;
+  
+
+
+}
+
+#AletlerMenu{
+    display: block;
+    vertical-align: top;
+    list-style-position: inside;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    max-width: 100%;
+
+    
+  
+   
+}
+
+.AletText{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+.Aciklama{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.Vizyon-Misyon{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Baslik{
+    font-weight: bold;
+    color: orangered;
+    font-size: 29px;
+    
+}

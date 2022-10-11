@@ -3,3 +3,5 @@
 
 
 [Patika.dev](https://www.patika.dev/)
+
+[Kodluyoruz.org](https://kodluyoruz.org/tr/kodluyoruz/)
